@@ -1,0 +1,33 @@
+.terminal-text {
+	-fx-text-fill: rgb(0, 150, 0);
+	-fx-font-size: 14px;
+	-fx-background-color: #000000;
+	-fx-font-weight: bold;
+	-fx-font-family: "Lucida Console", Monaco, monospace;
+}
+
+#terminal-input {
+	-fx-font-weight: bold;
+	-fx-background-color: #303030
+}
+
+#score{
+	-fx-font-size: 16px;
+	-fx-font-family: "Arial", Arial, Sans-serif;
+}
+
+#enemy-network {
+	-fx-fill: #BE0000;
+}
+
+#neutral-network {
+	-fx-fill: #898989;
+}
+
+#friendly-network {
+	-fx-fill: #33b6ff;
+	
+}
+#player-network {
+	-fx-fill: #0400D5;
+}

@@ -1,0 +1,15 @@
+ArrayList<Integer> i = new ArrayList<Integer>();
+i.add(1);
+i.add(14);
+i.add(12);
+i.add(13);
+i.add(155);
+i.add(0);
+i.add(72);
+i.add(42);
+i.indexOf(Collections.min(i));
+i;
+
+
+String test = ":)";
+test.contains(":)")

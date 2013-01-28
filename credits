@@ -1,0 +1,4 @@
+This is just a small game, but there are a few people and sites I need to give credit to.
+\nI got the idea for Hak'd from Matt's game Hacknet, thanks for not suing me. Without him this game would not be possible.
+\nAll the simple AI algorithms are my own. The path finding on the other hand is Aaron Steed's path finder library.
+\nI should also mention oracle, because I included a copy of their javaFX library in this.
